@@ -1,1 +1,1 @@
-Laravel Version 2
+Laravel Version 3
